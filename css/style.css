@@ -279,8 +279,10 @@ body {
     display: inline-block;
     padding: 1rem 3rem;
     font-size: 1.7rem;
-    color: #fff;
+    color: #010101;
     background-color: var(--primary);
+    border-radius: 0.5rem;
+    box-shadow: 1px 1px 3px;
     cursor: pointer;
 }
 
